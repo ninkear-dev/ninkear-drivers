@@ -24,7 +24,7 @@ Typical driver packages include:
 
 Official driver packages are available on the Ninkear download server:
 
-https://download.ninkear.com/A15Air/
+https://download.ninkear.com/Laptop/A15Air/
 
 Driver archives are also available in the official Ninkear Telegram driver channel:
 
