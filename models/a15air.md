@@ -1,14 +1,12 @@
-# Ninkear A15Air Drivers
+# Ninkear MODEL_NAME Drivers
 
-Download official drivers for the Ninkear A15Air laptop.
+Download official drivers for the Ninkear a15air laptop.
 
-This page provides links to the official driver packages required for proper operation of the Ninkear A15Air device.
+## 📥 Official Download
 
----
+https://download.ninkear.com/Laptop/A15Air/
 
-## Available Drivers
-
-Typical driver packages include:
+## 📦 Available Drivers
 
 - WiFi driver  
 - Bluetooth driver  
@@ -18,23 +16,23 @@ Typical driver packages include:
 - Chipset driver  
 - BIOS update  
 
----
+## ⚙️ Installation
 
-## Official Driver Downloads
-
-Official driver packages are available on the Ninkear download server:
-
-https://download.ninkear.com/Laptop/A15Air/
-
-Driver archives are also available in the official Ninkear Telegram driver channel:
-
-https://t.me/drivers_ninkear
-
----
-
-## Installation Instructions
-
-1. Download the correct driver package  
+1. Download the driver package  
 2. Extract the archive  
-3. Run the installer as administrator  
-4. Restart the laptop after installation
+3. Run the installer  
+4. Restart your laptop  
+
+## ❗ Notes
+
+- Always download drivers for your exact model  
+- Some laptops may have different CPU versions  
+- If unsure — check your system information  
+
+## 📡 Additional Sources
+
+Telegram drivers archive:  
+https://t.me/drivers_ninkear  
+
+Official website:  
+https://ru.ninkear.com  
