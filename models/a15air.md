@@ -1,4 +1,4 @@
-# Ninkear MODEL_NAME Drivers
+# Ninkear a15air Drivers
 
 Download official drivers for the Ninkear a15air laptop.
 
