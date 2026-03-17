@@ -1,26 +1,38 @@
-# Ninkear A16Pro Drivers
+# Ninkear a16pro Drivers
 
-Official drivers for the Ninkear A16Pro laptop.
+Download official drivers for the Ninkear a16proE laptop.
 
-Both English and Russian firmware versions may be available.
+## 📥 Official Download
 
----
+https://download.ninkear.com/Laptop/A16Pro/
 
-## Available Drivers
+## 📦 Available Drivers
 
 - WiFi driver  
 - Bluetooth driver  
 - Audio driver  
 - Graphics driver  
 - Touchpad driver  
+- Chipset driver  
 - BIOS update  
 
----
+## ⚙️ Installation
 
-## Download Drivers
+1. Download the driver package  
+2. Extract the archive  
+3. Run the installer  
+4. Restart your laptop  
 
-https://download.ninkear.com/A16Pro/
+## ❗ Notes
 
-Telegram driver archive:
+- Always download drivers for your exact model  
+- Some laptops may have different CPU versions  
+- If unsure — check your system information  
 
-https://t.me/drivers_ninkear
+## 📡 Additional Sources
+
+Telegram drivers archive:  
+https://t.me/drivers_ninkear  
+
+Official website:  
+https://ru.ninkear.com  
