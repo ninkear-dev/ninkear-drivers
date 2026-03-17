@@ -4,7 +4,7 @@ Download official drivers for the Ninkear a16proE laptop.
 
 ## 📥 Official Download
 
-https://download.ninkear.com/Laptop/A16Pro/
+https://download.ninkear.com/Laptop/A16Pro%20-%20EN/
 
 ## 📦 Available Drivers
 
