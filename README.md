@@ -1,64 +1,81 @@
-# Ninkear Drivers Download
+# Ninkear Drivers
 
-Official index of driver downloads for Ninkear laptops and mini PCs.
+Official driver downloads for Ninkear laptops.
 
-This repository provides links to official driver packages for all Ninkear devices.
+This page provides quick access to driver packages for different Ninkear models.
 
-Official drivers are hosted on the Ninkear download server:
-
-https://download.ninkear.com
-
-Driver files are also available in the official Telegram channel:
-
-https://t.me/drivers_ninkear
+If you cannot find your model, check the official download server or our Telegram channel.
 
 ---
 
-## Laptop Driver Pages
+## 📥 Official Download Sources
 
-- [A15Air Drivers](models/a15air.md)
-- [A15Plus 5700U Drivers](models/a15plus-5700u.md)
-- [A15Plus 5825U Drivers](models/a15plus-5825u.md)
-- [A15Pro 5500U Drivers](models/a15pro-5500u.md)
-- [A15Pro 7430U Drivers](models/a15pro-7430u.md)
-- [A16Pro Drivers](models/a16pro.md)
-- [DS16 Drivers](models/ds16.md)
-- [G16 Drivers](models/g16.md)
-- [G16Pro 4060 Drivers](models/g16pro-4060.md)
-- [N15Air Drivers](models/n15air.md)
-- [N16Pro Drivers](models/n16pro.md)
-- [S14 Drivers](models/s14.md)
-- [X10 Drivers](models/x10.md)
-- [YBook15 Drivers](models/ybook15.md)
+- Official server: https://download.ninkear.com/Laptop/
+- Telegram (all drivers): https://t.me/drivers_ninkear
 
 ---
 
-## Driver Types
+## 💻 Laptop Models
 
-Available downloads typically include:
+### A Series
 
-- WiFi drivers
-- Bluetooth drivers
-- Audio drivers
-- Graphics drivers
-- Touchpad drivers
-- Chipset drivers
-- BIOS updates
-
----
-
-## Installation Guide
-
-1. Download the correct driver package for your laptop model
-2. Extract the archive file
-3. Run the installer as administrator
-4. Restart the device after installation
+- [Ninkear A15Air Drivers](models/a15air.md)
+- [Ninkear A15Plus 5700U Drivers](models/a15plus-5700u.md)
+- [Ninkear A15Plus 5825U Drivers](models/a15plus-5825u.md)
+- [Ninkear A15Pro 5500U Drivers](models/a15pro-5500u.md)
+- [Ninkear A15Pro 7430U Drivers](models/a15pro-7430u.md)
+- [Ninkear A16Pro Drivers](models/a16pro.md)
 
 ---
 
-## Official Sources
+### G Series
 
-Ninkear driver downloads are officially distributed through:
+- [Ninkear G16 Drivers](models/g16.md)
+- [Ninkear G16Pro RTX 4060 Drivers](models/g16pro-4060.md)
 
-- https://download.ninkear.com
-- https://t.me/drivers_ninkear
+---
+
+### N Series
+
+- [Ninkear N15Air Drivers](models/n15air.md)
+- [Ninkear N16Pro Drivers](models/n16pro.md)
+
+---
+
+### Other Models
+
+- [Ninkear S14 Drivers](models/s14.md)
+- [Ninkear DS16 Drivers](models/ds16.md)
+- [Ninkear X10 Drivers](models/x10.md)
+- [Ninkear YBook15 Drivers](models/ybook15.md)
+
+---
+
+## ⚙️ How to install drivers
+
+1. Download the driver package
+2. Extract the archive
+3. Run the installer
+4. Restart your laptop
+
+---
+
+## ❗ Important
+
+- Always use drivers for your exact model
+- If unsure — check your laptop model in system settings
+- Some models have multiple CPU versions
+
+---
+
+## 🌐 Useful Links
+
+- Official website: https://ru.ninkear.com  
+- Telegram (news): https://t.me/ru_ninkear  
+- Drivers channel: https://t.me/drivers_ninkear  
+
+---
+
+## 🔍 SEO Keywords
+
+Ninkear drivers, Ninkear laptop drivers, download Ninkear drivers, Ninkear S14 drivers, Ninkear N16Pro drivers, Ninkear A15 drivers
